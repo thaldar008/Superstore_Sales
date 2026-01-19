@@ -28,6 +28,7 @@ This project analyzes a retail sales dataset to evaluate business performance us
 - Python (Pandas, Matplotlib) for EDA
 - Jupyter Notebook
 - PowerBI for Dashboard Visualization
+- Seaborn
 
 ## Key Insights
 - The West region contributes the highest sales among all regions.
